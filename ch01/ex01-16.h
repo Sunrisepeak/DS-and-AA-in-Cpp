@@ -46,7 +46,7 @@ void Matrix<Object>::resize(int row, int col) {
     }
 }
 
-/*----------------------Above is implements Answer---------------------------*/
+/*----------------------Above is implements of Answer---------------------------*/
 
 template <typename Object>
 Matrix<Object>::Matrix(int rows, int cols) : array(rows) {
